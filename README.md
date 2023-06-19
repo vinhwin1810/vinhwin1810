@@ -1,17 +1,26 @@
 <h1 align="center">Hi 👋, I'm Vinh Pham </h1>
 
-<p align="center"> <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/2B87/production/_90934111_1-1.jpg.webp" alt="vinhpham" /> </p>
-<!--
-**vinhwin1810/vinhwin1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://w0.peakpx.com/wallpaper/492/413/HD-wallpaper-anonymous-hacker-working.jpg" alt="vinhpham" height="400" width = "100%"/> </p>
 
-Here are some ideas to get you started:
-<a href="URL_REDIRECT" target="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Ftechnology-37192670&psig=AOvVaw3IxTKncbpuLKfIkIn3Y-pI&ust=1687242765944000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjO5p_bzv8CFQAAAAAdAAAAABAE"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vinhwin1810&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinhwin1810&show_icons=true&theme=radical" />
+</div>
+
+<p style="margin-bottom: 20px;"></p>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/vinh-pham-8ba02111b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/ocd.vinh/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:vinhwin1810@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
+
+
