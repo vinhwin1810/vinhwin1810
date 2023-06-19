@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="URL_REDIRECT" target="blank"><img align="right" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/2B87/production/_90934111_1-1.jpg.webp" height="400" width="400" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/2B87/production/_90934111_1-1.jpg.webp" height="400" width="400" /></a>
 <!--
 **vinhwin1810/vinhwin1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
