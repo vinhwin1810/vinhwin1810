@@ -5,7 +5,6 @@
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vinhwin1810&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vinhwin1810&show_icons=true&theme=radical" />
 </div>
 
 <p style="margin-bottom: 20px;"></p>
