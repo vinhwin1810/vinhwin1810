@@ -3,10 +3,6 @@
 <p align="center"> <img src="https://w0.peakpx.com/wallpaper/492/413/HD-wallpaper-anonymous-hacker-working.jpg" alt="vinhpham" height="400" width = "100%"/> </p>
 
 
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vinhwin1810&theme=dark" alt="GitHub Streak" />
-</div>
-
 <p style="margin-bottom: 20px;"></p>
 
 <div id="badges" align="center">
